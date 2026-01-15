@@ -6,6 +6,11 @@ What i'm up to: Currently working on a photography booking system (making life e
 
 Tech Stack & Tools
 
-Languages: Python, Django (learning) Web: HTML, CSS. Javascrpit Cloud: AWS (Foundational knowledge). Tools: Git, GitHub, VS Code. Let's connect: Linkedin: kwamesefa Email: sefajunia@gmail.com
+Languages: Python, Django (learning) Web: HTML, CSS. Javascrpit Cloud: AWS (Foundational knowledge). Tools: Git, GitHub, VS Code.
+
+Let's connect:
+LinkedIn: (https://www.linkedin.com/in/kwamesefa)  
+Email: (mailto:sefajuniah@gmail.com)  
+
 
 Consistency Beats Motivation.
